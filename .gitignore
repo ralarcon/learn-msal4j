@@ -22,3 +22,9 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+aad-resource-server/.vscode/settings.json
+confidential-client/.idea/.gitignore
+resource-server/.gitignore
+sample-api/.gitignore
+sample-api/.project
+sample-api/.idea/.gitignore
